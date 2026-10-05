@@ -410,9 +410,9 @@ Documented openly (examiners appreciate honesty):
 
 ## 👤 Author
 
-**Vaibhavi Nirgude**
-- GitHub: [@virendrabamne010](https://github.com/virendrabamne010)
-- Email: virendrabamne010@gmail.com
+**Shrutika Piprikar**
+- GitHub: [@shrutikapiprikar](https://github.com/shrutikapiprikar/PhishGuard-AI)
+- Email: shrutikapiprikar@gmail.com
 
 ---
 
