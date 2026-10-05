@@ -212,8 +212,7 @@ phishguard-ai/
 ### Step 1 — Clone
 
 ```bash
-git clone https://github.com/virendrabamne010/phishguard-ai.git
-cd phishguard-ai
+https://github.com/shrutikapiprikar/PhishGuard-AI
 ```
 
 ### Step 2 — Backend Setup
