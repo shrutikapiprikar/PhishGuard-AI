@@ -9,7 +9,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-TF--IDF%20%2B%20LogReg-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
 
-**Author:** [Vaibhavi Nirgude](https://github.com/virendrabamne010) · virendrabamne010@gmail.com
+**Author:** [Shrutika Piprikar](https://github.com/shrutikapiprikar) · shrutikapiprikar@gmail.com
 
 ---
 
