@@ -212,7 +212,8 @@ phishguard-ai/
 ### Step 1 — Clone
 
 ```bash
-https://github.com/shrutikapiprikar/PhishGuard-AI
+git clone https://github.com/shrutikapiprikar/PhishGuard-AI.git
+cd PhishGuard-AI
 ```
 
 ### Step 2 — Backend Setup
@@ -411,8 +412,7 @@ Documented openly (examiners appreciate honesty):
 ## 👤 Author
 
 **Shrutika Piprikar**
-- GitHub: [@shrutikapiprikar](https://github.com/shrutikapiprikar/PhishGuard-AI)
-- Email: shrutikapiprikar@gmail.com
+- GitHub: [@shrutikapiprikar](https://github.com/shrutikapiprikar)
 
 ---
 
